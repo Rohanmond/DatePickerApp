@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">DatePickerApp</string>
+    <string name="date_picker_image">Date Picker Image</string>
+    <string name="picked_date">Picked Date</string>
+    <string name="button">Button</string>
+    <string name="check_age">Check Age</string>
+</resources>
